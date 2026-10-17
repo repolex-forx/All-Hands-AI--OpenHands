@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/All-Hands-AI/OpenHands/commit/045290739f0af2ae4cc89d2a209c6bd930bb81ee",
       "git:hexsha": "045290739f0af2ae4cc89d2a209c6bd930bb81ee",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/All-Hands-AI/OpenHands/commit/642e01b67395810d418421a51943b9eca6a38899",
